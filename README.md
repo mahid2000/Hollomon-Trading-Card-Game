@@ -1,7 +1,7 @@
 # Hollomon-Trading-Card-Game
 CS1812: OOP2 Assignment 3
 
-A text based Trading Card Game client. 🃏
+A simplified network-based Trading Card Game client for the Hollomon TCG . 🃏
 
 Overview:
 
